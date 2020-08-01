@@ -1,6 +1,6 @@
 ### Hi there, I'm Sagyam [website] 👋
 
-## I'm a junior year Computer Engineering student intrested in AI.
+## I'm a junior year Computer Engineering student intrested in AI. AAA
 
 ### Connect with me:
 
