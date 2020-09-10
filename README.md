@@ -22,13 +22,9 @@
 
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
 
-
-
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"/>
 
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
-
-<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png"/>
 
 <img align="left" alt="MXNet" width="26px" src="https://img.stackshare.io/service/8352/kxyKWxfA_400x400.jpg"/>
 
@@ -42,6 +38,8 @@
 <img align="left" alt="Seaborn" width="26px" src="https://seabornnetworks.com/2020/wp-content/uploads/2017/05/seaborn.jpg"/>
 
 <img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+
+<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png"/>
 
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"/>
 
