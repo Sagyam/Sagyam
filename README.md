@@ -17,6 +17,9 @@
 
 <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>
 
+
+<img align="left" alt="mysql" width="26px" src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png"/>
+
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
 
 
