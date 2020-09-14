@@ -124,14 +124,14 @@
 <a>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs&show_icons=true&theme=dark&count_private=true" />
+    src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs&show_icons=true&theme=ligth&layout=compact&count_private=true" />
 </a>
 
 <a href="https://github.com/Sagyam/AudioFingerprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&theme=light&layout=compact" />
 </a>
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&theme=light&layout=compact" />
 </a>
 
 [website]: https://sagyamthapa.me
