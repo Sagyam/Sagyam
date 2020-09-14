@@ -160,15 +160,17 @@
 </a>
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5)
 
-![Sagyam's github stats](https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs)
+![Sagyam's github stats](https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true)
 
 [![Audio Fingerprinting](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint)](https://github.com/Sagyam/AudioFingerprint)
 
-[![Frontend-Mini-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects)](https://github.com/Sagyam/Frontend-Mini-Projects)
+[![Frontend-Mini-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projectss&cache_seconds=1800)](https://github.com/Sagyam/Frontend-Mini-Projects)
 
-[![Web-Scrapers](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scrapers)](https://github.com/Sagyam/web-scrapers)
+[![Web-Scrapers](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scraper)](https://github.com/Sagyam/web-scrapers)
+
+[![DCGANs](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=DCGAN)](https://github.com/Sagyam/DCGAN)
 
 ### 📕 Latest Blog Posts
 
