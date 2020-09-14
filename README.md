@@ -14,6 +14,7 @@
 ### Skills/Interests
 
 **Languages**
+
 <a href="https://www.python.org/">
   <img
     alt="Python"
@@ -34,9 +35,8 @@
     alt="C++"
     height="80"
     width="80"
-    src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </a>
-
 
 **Machine Learning Libraries and Frameworks**
 
@@ -56,7 +56,7 @@
     src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_black.svg#/media/File:PyTorch_logo_black.svg"
 </a>
   
-<a href="https://keras.org/">
+<a href="https://keras.io/">
   <img
     alt="Keras"
     height="80"
