@@ -98,7 +98,41 @@
 
 ---
 
-<img align="left" alt="Sagyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sagyam&show_icons=true&hide_border=true" />
+**Linux**
+
+<a href="https://www.ubuntu.org/">
+  <img 
+    alt="Ubuntu Linux"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
+</a>
+<a href="https://www.manjaro.org/">
+  <img 
+    alt="Manjaro Linux"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
+</a>
+
+### Stats
+<a>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&theme=light&layout=compact&count_private=true" />
+</a>
+<a>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs&show_icons=true&theme=dark&count_private=true" />
+</a>
+
+<a href="https://github.com/Sagyam/AudioFingerprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&theme=light" />
+</a>
+<a href="https://github.com/Sagyam/Frontend-Mini-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&theme=light" />
+</a>
 
 [website]: https://sagyamthapa.me
 [linkedin]: https://www.linkedin.com/in/sagyam-thapa-b56586178/
