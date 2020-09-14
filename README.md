@@ -132,7 +132,8 @@
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
 </a>
 
-**Dababase**
+**Dababases**
+
 <a href="https://www.mysql.com/">
   <img
     alt="MySQL"
@@ -173,6 +174,7 @@
 <a href="https://github.com/Sagyam/AudioFingerprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&theme=light&layout=compact" />
 </a>
+
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&theme=light&layout=compact" />
 </a>
