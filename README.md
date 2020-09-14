@@ -1,7 +1,7 @@
 ### Hi there, I'm Sagyam [website] 👋
 
 ## Hi, I'm Sagyam Thapa and I'm passionate about computer science. I am currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
-
+____
 ### Connect with me:
 
 [<img align="left" alt="Sagyam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -9,7 +9,7 @@
 [<img align="left" alt="Kaggle | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jupyter.svg" />][jovian ml]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+____
 
 ### Skills/Interests
 
@@ -158,29 +158,29 @@
     width="80"
     src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 </a>
+____
 
 ### Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5)
 
-![Sagyam's github stats](https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true)
+![Sagyam's github stats](https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact)
 
-[![Audio Fingerprinting](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint)](https://github.com/Sagyam/AudioFingerprint)
+[![Audio Fingerprinting](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&layout=compact)](https://github.com/Sagyam/AudioFingerprint)
 
-[![Frontend-Mini-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects)](https://github.com/Sagyam/Frontend-Mini-Projects)
+[![Frontend-Mini-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact)](https://github.com/Sagyam/Frontend-Mini-Projects)
 
-[![Web-Scrapers](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scrapers)](https://github.com/Sagyam/web-scrapers)
+[![Web-Scrapers](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scrapers&layout=compact)](https://github.com/Sagyam/web-scrapers)
 
 [![DCGANs](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=DCGAN)](https://github.com/Sagyam/DCGAN)
-
+____
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [I haven't written anything intresting so far. I will update this section ASAP](#)
 
----
-
-
+____
 [website]: https://sagyamthapa.me
 [linkedin]: https://www.linkedin.com/in/sagyam-thapa-b56586178/
 [kaggle]: https://www.kaggle.com/sagyamthapa
