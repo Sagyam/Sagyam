@@ -53,7 +53,7 @@
     alt="Pytorch"
     height="80"
     width="240"
-    src="https://raw.githubusercontent.com/pytorch/pytorch/c68a99bd616556872f74775ba11f1d28339dc297/docs/source/_static/img/pytorch-logo-dark.svg"
+    src="https://raw.githubusercontent.com/pytorch/pytorch/c68a99bd616556872f74775ba11f1d28339dc297/docs/source/_static/img/pytorch-logo-dark.svg">
 </a>
   
 <a href="https://keras.io/">
@@ -61,7 +61,7 @@
     alt="Keras"
     height="80"
     width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
 </a>
   
 <a href="https://scikit-learn.org/">
@@ -69,18 +69,17 @@
     alt=Scikit Learn"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg"
+    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg">
 </a>
-                                                                                                                     
- 
- **Data Science and Visualization**
+                                                                                                                      
+**Data Science and Visualization**
 
 <a href="https://numpy.org/">
    <img
     alt=Numpy"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg"
+    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg">
 </a>                                                                                                                
 
 <a href="https://pandas.io/">
@@ -88,7 +87,7 @@
     alt="Pandas"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg"
+    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg">
 </a>
   
 <a href="https://matplotlib.org/">
@@ -96,7 +95,7 @@
     alt="Matplotlib"
     height="80"
     width="240"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg"
+    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg">
 </a>
   
 **Web Devlopment**
@@ -106,7 +105,7 @@
     alt="HTML"
     height="80"
     width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png">
 </a>
   
 <a href="https://devdocs.io/#/css/">
@@ -114,7 +113,7 @@
     alt="CSS"
     height="80"
     width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png">
 </a>
   
 <a href="https://sass-lang.com/">
@@ -122,7 +121,7 @@
     alt="SASS"
     height="80"
     width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png">
 </a>
   
 <a href="https://vuejs.org">
@@ -130,7 +129,7 @@
     alt="Vue"
     height="80"
     width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
 </a>
 
 **Dababase**
