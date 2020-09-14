@@ -45,7 +45,7 @@
     alt="Tensorflow"
     height="80"
     width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/1/2d/Tensorflow_logo.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 </a>
 
 <a href="https://pytorch.org/">
@@ -72,15 +72,67 @@
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg"
 </a>
                                                                                                                      
+**Data Science and Visualization**
+
 <a href="https://numpy.org/">
    <img
     alt=Numpy"
     height="80"
     width="80"
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg"
-</a>  
-                                                                                                     
-**Databases**
+</a>                                                                                                                
+
+<a href="https://pandas.io/">
+  <img
+    alt="Pandas"
+    height="80"
+    width="80"
+    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg"
+</a>
+  
+<a href="https://matplotlib.org/">
+  <img
+    alt="Matplotlib"
+    height="80"
+    width="240"
+    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg"
+</a>
+  
+**Web Devlopment**
+
+<a href="https://devdocs.io/#/html/">
+  <img
+    alt="HTML"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png"
+</a>
+  
+<a href="https://devdocs.io/#/css/">
+  <img
+    alt="CSS"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png"
+</a>
+  
+<a href="https://sass-lang.com/">
+  <img
+    alt="SASS"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png"
+</a>
+  
+<a href="https://vuejs.org">
+  <img
+    alt="Vue"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png"
+</a>
+  
+**Dababase**
 
 <a href="https://www.mysql.com/">
   <img
