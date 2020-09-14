@@ -1,6 +1,6 @@
 ### Hi there, I'm Sagyam [website] 👋
 
-## I'm Sagyam Thapa and I'm passionate about computer science. I currently learning Web Devlopment and Machine Learning/ Data Science and I plan to combine them in my projects. 
+## Hi, I'm Sagyam Thapa and I'm passionate about computer science. I am currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
 
 ### Connect with me:
 
@@ -28,13 +28,15 @@
     width="80"
     src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://www.javascript.com/">
+
+<a href="http://www.cplusplus.org/">
   <img
-    alt="MySQL"
+    alt="C++"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
+    src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg" />
 </a>
+
 
 **Machine Learning Libraries and Frameworks**
 
@@ -76,8 +78,17 @@
     height="80"
     width="80"
     src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg#/media/File:NumPy_logo_2020.svg"
-</a>                                                                                                                     
+</a>  
+                                                                                                     
+**Databases**
 
+<a href="https://www.mysql.com/">
+  <img
+    alt="MySQL"
+    height="80"
+    width="80"
+    src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
+</a>
 
 ### 📕 Latest Blog Posts
 
