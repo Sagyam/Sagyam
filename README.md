@@ -72,7 +72,8 @@
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg"
 </a>
                                                                                                                      
-**Data Science and Visualization**
+ 
+ **Data Science and Visualization**
 
 <a href="https://numpy.org/">
    <img
@@ -131,9 +132,8 @@
     width="80"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png"
 </a>
-  
-**Dababase**
 
+**Dababase**
 <a href="https://www.mysql.com/">
   <img
     alt="MySQL"
