@@ -1,4 +1,4 @@
-### Hi there, I'm Sagyam [website]. I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
+### Hi there, I'm Sagyam Thapa. I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
 ____
 
 ## Connect with me:
@@ -121,6 +121,14 @@ ________
     width="80"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png">
 </a>
+
+<a href="https://tailwindcss.com/">
+  <img
+    alt="TailwindCSS"
+    height="80"
+    width="240"
+    src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667">
+</a>
   
 <a href="https://vuejs.org">
   <img
@@ -156,6 +164,7 @@ ________
     width="80"
     src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 </a>
+
 ____
 
 ## Stats
