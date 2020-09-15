@@ -1,13 +1,15 @@
 ### Hi there, I'm Sagyam Thapa. I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
-____
+_____________________________________________________________________________________________________________________________________________
 
 ## Connect with me:
+
 [<img align="left" alt="Sagyam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaggle | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jupyter.svg" />][jovian ml]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-________
+<br>
+________________________________________________________________________________________________________________________________________________
 
 ## Skills/Interests
 
@@ -84,7 +86,7 @@ ________
   <img
     alt="Pandas"
     height="80"
-    width="80"
+    width="120"
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg">
 </a>
   
@@ -169,9 +171,13 @@ ____
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+</a>
 
-![Sagyam's github stats](https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact)
+<a href="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
+</a>
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
