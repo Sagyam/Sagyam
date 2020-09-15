@@ -73,11 +73,10 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://opencv.org/">
-  <img
-    alt="OpenCV"
-    height="80"
-    width="80"
-    src="https://commons.wikimedia.org/wiki/File:OpenCV_Logo_with_text_svg_version.svg#/media/File:OpenCV_Logo_with_text_svg_version.svg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
+       alt="OpenCV Logo with text svg version.svg"
+       height="80"
+       width="80">
 </a>
                                                                                                                       
 ### Data Science and Visualization
@@ -159,19 +158,17 @@ ________________________________________________________________________________
 ### Web Scraping
 
 <a href="https://www.selenium.dev/">
-  <img
-    alt="Selenium"
-    height="80"
-    width="80"
-    src="https://commons.wikimedia.org/wiki/File:Selenium_Logo.png#/media/File:Selenium_Logo.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png"
+       alt="Selenium Logo.png"
+       height="80"
+      width="80">
 </a>
 
 <a href="https://scrapy.org/">
-  <img
-    alt="Scrapy"
-    height="80"
-    width="240"
-    src="https://commons.wikimedia.org/wiki/File:Scrapy_logo.jpg#/media/File:Scrapy_logo.jpg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg"
+       alt="Scrapy logo.jpg"
+       height="80"
+       width="240">
 </a>
 
 ### Dababases
