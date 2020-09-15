@@ -110,7 +110,7 @@ ________
   <img
     alt="CSS"
     height="80"
-    width="80"
+    width="60"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png">
 </a>
   
@@ -118,7 +118,7 @@ ________
   <img
     alt="SASS"
     height="80"
-    width="80"
+    width="100"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png">
 </a>
 
@@ -134,7 +134,7 @@ ________
   <img
     alt="Vue"
     height="80"
-    width="80"
+    width="100"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
 </a>
 
@@ -173,13 +173,22 @@ ____
 
 ![Sagyam's github stats](https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact)
 
-[![Audio Fingerprinting](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&layout=compact)](https://github.com/Sagyam/AudioFingerprint)
+<a href="https://github.com/Sagyam/Frontend-Mini-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
+</a>
 
-[![Frontend-Mini-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact)](https://github.com/Sagyam/Frontend-Mini-Projects)
+<a href="https://github.com/Sagyam/AudioFingerprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&layout=compact">
+</a>
 
-[![Web-Scrapers](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scrapers&layout=compact)](https://github.com/Sagyam/web-scrapers)
+<a href="https://github.com/Sagyam/web-scrapers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scrapers&layout=compact">
+</a>
 
-[![DCGANs](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=DCGAN)](https://github.com/Sagyam/DCGAN)
+<a href="https://github.com/Sagyam/DCGAN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=DCGAN">
+</a>
+
 ____
 ## 📕 Latest Blog Posts
 
