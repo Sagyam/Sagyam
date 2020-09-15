@@ -97,7 +97,15 @@ ________________________________________________________________________________
     width="240"
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg">
 </a>
-  
+
+<a href="http://seaborn.pydata.org">
+  <img
+    alt="Seaborn"
+    height="80"
+    width="80"
+    src="https://avatars3.githubusercontent.com/u/22799945?s=200&v=4">
+</a>  
+
 ### Web Devlopment
 
 <a href="https://devdocs.io/#/html/">
@@ -138,6 +146,24 @@ ________________________________________________________________________________
     height="80"
     width="100"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
+</a>
+
+### Web Scraping
+
+<a href="https://www.selenium.dev/">
+  <img
+    alt="Selenium"
+    height="80"
+    width="80"
+    src="https://en.wikipedia.org/wiki/Selenium_(software)#/media/File:Selenium_Logo.png">
+</a>
+
+<a href="https://scrapy.org/">
+  <img
+    alt="Scrapy"
+    height="80"
+    width="240"
+    src="https://en.wikipedia.org/wiki/Scrapy#/media/File:Scrapy_logo.jpg" />
 </a>
 
 ### Dababases
