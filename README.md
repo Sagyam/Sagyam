@@ -1,4 +1,4 @@
-### Hi there, I'm Sagyam [website] 👋I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
+### Hi there, I'm Sagyam [website]. I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
 ____
 
 ## Connect with me:
@@ -7,11 +7,11 @@ ____
 [<img align="left" alt="Kaggle | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jupyter.svg" />][jovian ml]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-____
+________
 
 ## Skills/Interests
 
-**Languages**
+### Languages
 
 <a href="https://www.python.org/">
   <img
@@ -36,7 +36,7 @@ ____
     src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </a>
 
-**Machine Learning**
+### Machine Learning
 
 <a href="https://tensorflow.org/">
   <img
@@ -70,7 +70,7 @@ ____
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg">
 </a>
                                                                                                                       
-**Data Science and Visualization**
+### Data Science and Visualization
 
 <a href="https://numpy.org/">
    <img
@@ -96,7 +96,7 @@ ____
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg">
 </a>
   
-**Web Devlopment**
+### Web Devlopment
 
 <a href="https://devdocs.io/#/html/">
   <img
@@ -130,7 +130,7 @@ ____
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
 </a>
 
-**Dababases**
+### Dababases
 
 <a href="https://www.mysql.com/">
   <img
@@ -140,7 +140,7 @@ ____
     src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
 </a>
 
-**Linux**
+### Linux
 
 <a href="https://www.ubuntu.org/">
   <img 
