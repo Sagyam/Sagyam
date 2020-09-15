@@ -66,17 +66,25 @@ ________________________________________________________________________________
   
 <a href="https://scikit-learn.org/">
   <img
-    alt=Scikit Learn"
+    alt="Scikit Learn"
     height="80"
     width="80"
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg">
+</a>
+
+<a href="https://opencv.org/">
+  <img
+    alt="OpenCV"
+    height="80"
+    width="80"
+    src="https://commons.wikimedia.org/wiki/File:OpenCV_Logo_with_text_svg_version.svg#/media/File:OpenCV_Logo_with_text_svg_version.svg">
 </a>
                                                                                                                       
 ### Data Science and Visualization
 
 <a href="https://numpy.org/">
    <img
-    alt=Numpy"
+    alt="Numpy"
     height="80"
     width="80"
     src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg">
@@ -155,7 +163,7 @@ ________________________________________________________________________________
     alt="Selenium"
     height="80"
     width="80"
-    src="https://en.wikipedia.org/wiki/Selenium_(software)#/media/File:Selenium_Logo.png">
+    src="https://commons.wikimedia.org/wiki/File:Selenium_Logo.png#/media/File:Selenium_Logo.png">
 </a>
 
 <a href="https://scrapy.org/">
@@ -163,7 +171,7 @@ ________________________________________________________________________________
     alt="Scrapy"
     height="80"
     width="240"
-    src="https://en.wikipedia.org/wiki/Scrapy#/media/File:Scrapy_logo.jpg" />
+    src="https://commons.wikimedia.org/wiki/File:Scrapy_logo.jpg#/media/File:Scrapy_logo.jpg" />
 </a>
 
 ### Dababases
@@ -197,12 +205,12 @@ ____
 
 ## Stats
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
-</a>
-
 <a href="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
 </a>
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
