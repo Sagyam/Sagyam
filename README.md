@@ -1,19 +1,15 @@
-### Hi there, I'm Sagyam [website] 👋
-
-## Hi, I'm Sagyam Thapa and I'm passionate about computer science. I am currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
+### Hi there, I'm Sagyam [website] 👋I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/ Data Science and combining them in my projects. 
 ____
 
-### Connect with me:
-
+## Connect with me:
 [<img align="left" alt="Sagyam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaggle | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jupyter.svg" />][jovian ml]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 ____
 
-### Skills/Interests
+## Skills/Interests
 
 **Languages**
 
@@ -162,7 +158,7 @@ ____
 </a>
 ____
 
-### Stats
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5)
 
@@ -176,7 +172,7 @@ ____
 
 [![DCGANs](https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=DCGAN)](https://github.com/Sagyam/DCGAN)
 ____
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
