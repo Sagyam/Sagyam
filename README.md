@@ -214,10 +214,13 @@ ____
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
 </a>
 
+<a href="https://github.com/Sagyam/Loruki-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
+</a>
+
 <a href="https://github.com/Sagyam/AudioFingerprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=AudioFingerprint&layout=compact">
 </a>
-
 <a href="https://github.com/Sagyam/web-scrapers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=web-scrapers&layout=compact">
 </a>
