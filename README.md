@@ -1,4 +1,4 @@
-### Hi there, I'm Sagyam Thapa. I'm passionate about computer science. I'm currently learning Web Devlopment and Machine Learning/Data Science and combining them in my projects. 
+### Hi, I am Sagyam Thapa. I am intrersted about anything computer science. I am currently learning Frotnend Web-Devlopment. 
 _____________________________________________________________________________________________________________________________________________
 
 ## Connect with me:
