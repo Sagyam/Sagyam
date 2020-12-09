@@ -1,4 +1,4 @@
-### Hi, I am Sagyam Thapa. I am intrersted about anything computer science. I am currently learning Frotnend Web-Devlopment. 
+### Hi, I am Sagyam Thapa. I am intrersted in anything computer science. I am currently learning Frotnend Web-Devlopment. 
 _____________________________________________________________________________________________________________________________________________
 
 ## Connect with me:
@@ -173,7 +173,7 @@ ________________________________________________________________________________
     src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
 </a>
 
-### Linux
+### Favourite Distro
 
 <a href="https://www.debian.org/">
   <img 
@@ -195,6 +195,8 @@ ____
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
 </a>
+
+[![Sagyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sagyam)](https://github.com/Sagyam)
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
