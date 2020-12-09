@@ -196,7 +196,7 @@ ____
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
 </a>
 
-[![Sagyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sagyam)](https://github.com/Sagyam)
+[![Sagyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/Sagyam)
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
