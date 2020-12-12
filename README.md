@@ -1,234 +1,35 @@
-### Hi, I am Sagyam Thapa. I am intrersted in anything computer science. I am currently learning Frotnend Web-Devlopment. 
-_____________________________________________________________________________________________________________________________________________
+<h1 align="center">Namaste 🙏, I'm Sagyam</h1>
+<h3 align="center">I am Frontend developer from Nepal</h3>
 
-## Connect with me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagyam&label=Profile%20views&color=0e75b6&style=flat" alt="sagyam" /> </p>
 
-[<img align="left" alt="Sagyam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kaggle | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jupyter.svg" />][jovian ml]
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br>
-________________________________________________________________________________________________________________________________________________
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagyam" alt="sagyam" /></a> </p>
 
-## Skills/Interests
+<p align="left"> <a href="https://twitter.com/sagyam21" target="blank"><img src="https://img.shields.io/twitter/follow/sagyam21?logo=twitter&style=for-the-badge" alt="sagyam21" /></a> </p>
 
-### Languages
+- 🔭 I’m currently working on [Eye-Catching-Landing-Pages](Frontend-Mini-Projects)
 
-<a href="https://www.python.org/">
-  <img
-    alt="Python"
-    height="80"
-    width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-</a>
-<a href="https://www.javascript.com/">
-  <img
-    alt="JavaScript"
-    height="80"
-    width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
-</a>
+- 🌱 I’m currently learning **Modern-HTML-CSS-From-The-Beginning**
 
-<a href="http://www.cplusplus.org/">
-  <img
-    alt="C++"
-    height="80"
-    width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-</a>
+- 👨‍💻 All of my projects are available at [sagyamthapa.me](sagyamthapa.me)
 
-### Web Devlopment
+- 💬 Ask me about **Python,Web Scraping**
 
-<a href="https://devdocs.io/#/html/">
-  <img
-    alt="HTML"
-    height="80"
-    width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png">
-</a>
-  
-<a href="https://devdocs.io/#/css/">
-  <img
-    alt="CSS"
-    height="80"
-    width="60"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png">
-</a>
-  
-<a href="https://sass-lang.com/">
-  <img
-    alt="SASS"
-    height="80"
-    width="100"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/320px-Sass_Logo_Color.svg.png">
-</a>
+- 📫 How to reach me **sagyamthapa32@gmail.com**
 
-<a href="https://tailwindcss.com/">
-  <img
-    alt="TailwindCSS"
-    height="80"
-    width="240"
-  src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667">
-</a>
-  
-<a href="https://vuejs.org">
-  <img
-    alt="Vue"
-    height="80"
-    width="100"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sagyam21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sagyam21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagyam-thapa-b56586178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagyam-thapa-b56586178" height="30" width="40" /></a>
+<a href="https://kaggle.com/sagyamthapa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sagyamthapa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sagyam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagyam" height="30" width="40" /></a>
+</p>
 
-### Machine Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<a href="https://tensorflow.org/">
-  <img
-    alt="Tensorflow"
-    height="80"
-    width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagyam&show_icons=true&locale=en&layout=compact" alt="sagyam" /></p>
 
-<a href="https://pytorch.org/">
-  <img
-    alt="Pytorch"
-    height="80"
-    width="240"
-    src="https://raw.githubusercontent.com/pytorch/pytorch/c68a99bd616556872f74775ba11f1d28339dc297/docs/source/_static/img/pytorch-logo-dark.svg">
-</a>
-  
-<a href="https://keras.io/">
-  <img
-    alt="Keras"
-    height="80"
-    width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-</a>
-  
-<a href="https://scikit-learn.org/">
-  <img
-    alt="Scikit Learn"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg">
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagyam&show_icons=true&locale=en" alt="sagyam" /></p>
 
-<a href="https://opencv.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
-       alt="OpenCV Logo with text svg version.svg"
-       height="80"
-       width="80">
-</a>
-                                                                                                                      
-### Data Science and Visualization
-
-<a href="https://numpy.org/">
-   <img
-    alt="Numpy"
-    height="80"
-    width="80"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg">
-</a>                                                                                                                
-
-<a href="https://pandas.io/">
-  <img
-    alt="Pandas"
-    height="80"
-    width="120"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg">
-</a>
-  
-<a href="https://matplotlib.org/">
-  <img
-    alt="Matplotlib"
-    height="80"
-    width="240"
-    src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg">
-</a>
-
-### Web Scraping
-
-<a href="https://www.selenium.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png"
-       alt="Selenium Logo.png"
-       height="80"
-      width="80">
-</a>
-
-<a href="https://scrapy.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg"
-       alt="Scrapy logo.jpg"
-       height="80"
-       width="240">
-</a>
-
-### Dababases
-
-<a href="https://www.mysql.com/">
-  <img
-    alt="MySQL"
-    height="80"
-    width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
-</a>
-
-### Favourite Distro
-
-<a href="https://www.debian.org/">
-  <img 
-    alt="Debian"
-    height="80"
-    width="80"
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />
-</a>
-
-
-____
-
-## Stats
-
-<a href="https://wakatime.com/@Sagyam">
-  <img align="left" src="https://github-readme-stats-indol-seven.vercel.app/api/wakatime?username=Sagyam">
-</a>
-
-<a href="https://wakatime.com/@Sagyam">
-  <img align="center" src="https://wakatime.com/share/@Sagyam/3ea060ee-43d9-459b-b694-10e1d2a247c7.svg"
-       height="512" width="512">
-</a>
-
-<a href="https://wakatime.com/@Sagyam">
-  <img align="center" src="https://wakatime.com/share/@Sagyam/3ae76e7c-f035-4e20-be2e-d06edcce25dc.svg"
-       height="512" width="512">
-</a>
-
-<a href="#">
-  <img align="left" src="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true">
-</a>
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
-</a>
-
-<a href="https://github.com/Sagyam/Frontend-Mini-Projects">
-  <img align="left" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
-</a>
-
-<a href="https://github.com/Sagyam/Eye-Catching-Landing-Pages">
-  <img align="right" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Eye-Catching-Landing-Pages&layout=compact">
-      
-<a href="https://github.com/Sagyam/Delicious-Meals">
-  <img align="left" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Delicious-Meals&layout=compact">
-</a>
-  
-<a href="https://github.com/Sagyam/Loruki-Website">
-  <img align="right" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
-</a>
-
-
-____
-[website]: https://sagyamthapa.me
-[linkedin]: https://www.linkedin.com/in/sagyam-thapa-b56586178/
-[kaggle]: https://www.kaggle.com/sagyamthapa
-[jovian ml]: https://jovian.ml/sagyamthapa32
-[twitter]: https://twitter.com/sagyam21
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagyam&" alt="sagyam" /></p>
