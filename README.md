@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sagyam21" target="blank"><img src="https://img.shields.io/twitter/follow/sagyam21?logo=twitter&style=for-the-badge" alt="sagyam21" /></a> </p>
 
-- 🔭 I’m currently working on [Eye-Catching-Landing-Pages](Frontend-Mini-Projects)
+- 🔭 I’m currently working on [Eye-Catching-Landing-Pages](Eye-Catching-Landing-Pages) and [Frontend-Mini-Projects](Frontend-Mini-Projects)
 
-- 🌱 I’m currently learning **Modern-HTML-CSS-From-The-Beginning**
+- 🌱 I’m currently learning [Modern-HTML-CSS-From-The-Beginning](Modern-HTML-CSS-From-The-Beginning) and [Modern-JavaScript-From-The-Beginning](Modern-JavaScript-From-The-Beginning)
 
-- 👨‍💻 All of my projects are available at [sagyamthapa.me](sagyamthapa.me)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Sagyam?tab=repositories&q=&type=source&language=)
 
 - 💬 Ask me about **Python,Web Scraping**
 
