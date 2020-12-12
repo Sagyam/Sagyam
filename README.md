@@ -188,14 +188,16 @@ ____
 
 ## Stats
 
-[![My Last Week](https://github-readme-stats.sagyam.vercel.app/api/wakatime?username=Sagyam)](https://github.com/Sagyam/github-readme-stats)
-
-<a href="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
+<a href="https://github.com/Sagyam/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-indol-seven.vercel.app/api/wakatime?username=Sagyam">
 </a>
 
-<a href="https://github-readme-stats.sagyam.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+<a href="">
+  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true">
+</a>
+
+<a href="https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+  <img align="center" src="https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
 </a>
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
