@@ -189,30 +189,40 @@ ____
 ## Stats
 
 <a href="https://wakatime.com/@Sagyam">
-  <img align="center" src="https://github-readme-stats-indol-seven.vercel.app/api/wakatime?username=Sagyam">
+  <img align="left" src="https://github-readme-stats-indol-seven.vercel.app/api/wakatime?username=Sagyam">
 </a>
 
-<a href="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&include_all_commits=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true">
+<a href="https://wakatime.com/@Sagyam">
+  <img align="center" src="https://wakatime.com/share/@Sagyam/3ea060ee-43d9-459b-b694-10e1d2a247c7.svg"
+       height="512" width="512">
 </a>
 
-<a href="https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Sagyam&langs_count=8">
-  <img align="center" src="https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+<a href="https://wakatime.com/@Sagyam">
+  <img align="center" src="https://wakatime.com/share/@Sagyam/3ae76e7c-f035-4e20-be2e-d06edcce25dc.svg"
+       height="512" width="512">
+</a>
+
+<a href="#">
+  <img align="left" src="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true">
+</a>
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats-indol-seven.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
 </a>
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
-  <img align="center" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
+  <img align="left" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
 </a>
 
 <a href="https://github.com/Sagyam/Eye-Catching-Landing-Pages">
-  <img align="center" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Eye-Catching-Landing-Pages&layout=compact">
+  <img align="right" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Eye-Catching-Landing-Pages&layout=compact">
       
 <a href="https://github.com/Sagyam/Delicious-Meals">
-  <img align="center" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Delicious-Meals&layout=compact">
+  <img align="left" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Delicious-Meals&layout=compact">
 </a>
   
 <a href="https://github.com/Sagyam/Loruki-Website">
-  <img align="center" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
+  <img align="right" src="github-readme-stats-indol-seven.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
 </a>
 
 
