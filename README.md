@@ -188,6 +188,10 @@ ____
 
 ## Stats
 
+<figure><embed src="https://wakatime.com/share/@Sagyam/c4aa2a38-fab3-4ddb-b937-ffc71e8297e4.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@Sagyam/81add790-dce7-4e62-b069-85a9761fa818.svg"></embed></figure>
+
 <a href="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
 </a>
@@ -211,11 +215,6 @@ ____
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
 </a>
 
-
-____
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
 
 [I haven't written anything intresting so far. I will update this section ASAP](#)
 
