@@ -188,9 +188,7 @@ ____
 
 ## Stats
 
-<figure><embed src="https://wakatime.com/share/@Sagyam/c4aa2a38-fab3-4ddb-b937-ffc71e8297e4.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@Sagyam/81add790-dce7-4e62-b069-85a9761fa818.svg"></embed></figure>
+[!Sagyam's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sagyam)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
