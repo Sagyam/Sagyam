@@ -188,33 +188,31 @@ ____
 
 ## Stats
 
-[!Sagyam's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sagyam)](https://github.com/anuraghazra/github-readme-stats)
+[![My Last Week](https://github-readme-stats.sagyam.vercel.app/api/wakatime?username=Sagyam)](https://github.com/Sagyam/github-readme-stats)
 
-<a href="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
+<a href="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api?username=Sagyam&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&layout=compact">
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
+<a href="https://github-readme-stats.sagyam.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagyam&langs_count=5">
 </a>
 
 <a href="https://github.com/Sagyam/Frontend-Mini-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
+  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api/pin/?username=Sagyam&repo=Frontend-Mini-Projects&layout=compact">
 </a>
 
 <a href="https://github.com/Sagyam/Eye-Catching-Landing-Pages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Eye-Catching-Landing-Pages&layout=compact">
+  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api/pin/?username=Sagyam&repo=Eye-Catching-Landing-Pages&layout=compact">
       
 <a href="https://github.com/Sagyam/Delicious-Meals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Delicious-Meals&layout=compact">
+  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api/pin/?username=Sagyam&repo=Delicious-Meals&layout=compact">
 </a>
   
 <a href="https://github.com/Sagyam/Loruki-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
+  <img align="center" src="https://github-readme-stats.sagyam.vercel.app/api/pin/?username=Sagyam&repo=Loruki-Website&layout=compact">
 </a>
 
-
-[I haven't written anything intresting so far. I will update this section ASAP](#)
 
 ____
 [website]: https://sagyamthapa.me
