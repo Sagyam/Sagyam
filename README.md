@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm Sagyam</h1>
-<h3 align="center">I am Frontend developer from Nepal</h3>
+<h3 align="center">I am Frontend Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagyam&label=Profile%20views&color=0e75b6&style=flat" alt="sagyam" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Sagyam?tab=repositories&q=&type=source&language=)
 
-- 💬 Ask me about **Python,Web Scraping**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **sagyamthapa32@gmail.com**
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagyam&show_icons=true&locale=en" alt="sagyam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagyam&" alt="sagyam" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sagyam" alt="sagyam" /></p>
