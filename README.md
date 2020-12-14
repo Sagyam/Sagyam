@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm [Sagyam](sagyamthapa.me)</h1>
+<h1 align="center">Namaste 🙏, I'm Sagyam</h1>
 <h3 align="center">I am Frontend Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagyam&label=Profile%20views&color=0e75b6&style=flat-square" alt="sagyam" /> </p>
