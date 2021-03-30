@@ -1,6 +1,9 @@
-# Namaste🙏, I'm Sagyam Thapa  
+# Namaste🙏 I'm Sagyam Thapa  
   
 
+<a href="https://sagyamthapa.me" target="_blank">
+<img src=https://img.shields.io/badge/-Portfolio-success?style=for-the-badge alt=portfolio style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/sagyam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
