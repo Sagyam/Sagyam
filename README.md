@@ -28,10 +28,10 @@ I'm a computer engineering  student from Nepal. I'm currently learning  Web Deve
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Handwritten-Optical-Character-Recognition](https://sagyamthapa.me/Handwritten-Optical-Character-Recognition/)  
+- 🔭 I’m currently working on [20-Web-Projects-With-Vanilla-JavaScript](https://github.com/Sagyam/20-Web-Projects-With-Vanilla-JavaScript)  
   
 
-- 🌱 I’m currently learning VueJS and Sass  
+- 🌱 I’m currently learning Javascript and Sass  
   
 
 - ❓ Ask me anything about my project  
