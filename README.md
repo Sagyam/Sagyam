@@ -31,7 +31,7 @@ I'm a computer engineering  student from Nepal. I'm currently learning  Web Deve
 - 🔭 I’m currently working on [20-Web-Projects-With-Vanilla-JavaScript](https://github.com/Sagyam/20-Web-Projects-With-Vanilla-JavaScript)  
   
 
-- 🌱 I’m currently learning Javascript and Sass  
+- 🌱 I’m currently learning React  
   
 
 - ❓ Ask me anything about my project  
