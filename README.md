@@ -26,7 +26,7 @@ I'm a passionate computer engineering graduate with experience in building web a
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [MERN Todo](https://github.com/Sagyam/MERN-Todo)  
+- 🔭 I’m currently working on TypeScript  
   
 
 - 🌱 I’m currently learning MERN stack  
