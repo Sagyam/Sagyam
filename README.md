@@ -26,10 +26,10 @@ I'm a passionate computer engineering graduate with experience in building web a
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on TypeScript  
+- 🔭 I’m currently working on <a href='https://matrice.ai'>matrice.ai</a>  
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently learning React with TyeScript  
   
 
 - ❓Ask me anything about my project  
